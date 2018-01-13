@@ -14,7 +14,8 @@ def blink(pin)
     time.sleep(1)
     GPIO.output(pin,0) # led off
     time.sleep(1)
+return
+
+
 
 blink(11)
-blink(15)
-blink(18)
