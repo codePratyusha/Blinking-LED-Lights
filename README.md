@@ -1,4 +1,4 @@
-*LED Blink*
+**LED Blink**
 
 This project was created as part of IDEA HACKS 2018, a hardware-based hackathon held at Univeristy of California, Los Angeles. 
 
